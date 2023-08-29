@@ -1,0 +1,8 @@
+Console.Info
+Console.Error
+┌─────────┬─────────────┐
+│ (index) │   Values    │
+├─────────┼─────────────┤
+│  nama   │   'Pina'    │
+│ alamat  │ 'Jl.Mangga' │
+└─────────┴─────────────┘
